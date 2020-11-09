@@ -1,0 +1,22 @@
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\bin\Debug\AltınToplama.exe.config
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\bin\Debug\AltınToplama.exe
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\bin\Debug\AltınToplama.pdb
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csprojAssemblyReference.cache
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.Properties.Resources.resources
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csproj.GenerateResource.cache
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csproj.CoreCompileInputs.cache
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.exe
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.pdb
+C:\Users\Cemre\source\repos\AltınToplama\AltınToplama\obj\Debug\AltınToplama.AltınToplama.resources
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\bin\Debug\AltınToplama.exe.config
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\bin\Debug\AltınToplama.exe
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\bin\Debug\AltınToplama.pdb
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csprojAssemblyReference.cache
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.AltınToplama.resources
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.Properties.Resources.resources
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csproj.GenerateResource.cache
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.csproj.CoreCompileInputs.cache
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.exe
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.pdb
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.location.resources
+D:\Develop-Project\Altın toplama\Project\AltınToplama\AltınToplama\obj\Debug\AltınToplama.Game.resources
